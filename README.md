@@ -1,6 +1,6 @@
 ## Installation
 
-To use the plugin, follow these steps:
+To use the js plugin, follow these steps:
 
 1. **Download the Plugin Files**: Download the `script.js` file and place it in your project directory.
 
